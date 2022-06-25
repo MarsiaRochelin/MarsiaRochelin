@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marsiarochelin&label=Profile%20views&color=0e75b6&style=flat" alt="marsiarochelin" /> </p>
 
-URL:https://www.codewars.com/users/Mars%20Roc/badges/large
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marsiarochelin" alt="marsiarochelin" /></a> </p>
 
 - 👩🏽‍🎓 I'm currently learning **JavaScript as a Software Engineering Fellow at Pursuit**
