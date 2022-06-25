@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marsiarochelin" alt="marsiarochelin" /></a> </p>
 
-- 👩🏽‍🎓 I'm currently learning **JavaScript in the Pursuit Fellowship Program**
+- 👩🏽‍🎓 I'm currently learning **JavaScript as a Pursuit Fellow**
 
 - ⚡ Fun fact **I am multilingual**
 
