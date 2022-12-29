@@ -7,7 +7,7 @@
 
 - 👩🏽‍🎓 I'm currently learning **Full Stack Web Development as a Software Engineering Fellow at Pursuit**
 
-- ⚡ Fun fact **I am multilingual**
+- ⚡ Fun fact **I am multi-lingual**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
