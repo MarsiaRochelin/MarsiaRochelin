@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marsiarochelin" alt="marsiarochelin" /> </p>
 
-- **I've complete my Full Stack Web Development core training as a Software Engineering Fellow at Pursuit. I am  developing my capstone (exit projecct)👩🏽‍🎓 and I am on the job market for a entry Developer role to launch 🚀 my career as a SWE**
+- **I've complete my Full Stack Web Development core training as a Software Engineering Fellow at Pursuit. I am  developing my capstone (exit project)👩🏽‍🎓 and I am on the job market for a entry Developer role to launch 🚀 my career as a SWE**
 
 - ⚡ Fun fact **I am multi-lingual**
 
