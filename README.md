@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marsiarochelin" alt="marsiarochelin" /> </p>
 
-- **I've complete my Full Stack Web Development core training👩🏽‍🎓 as a Software Engineering Fellow at Pursuit. I am currently developing my porfolio  starting with a project that I’m looking to infuse Web 3 & SAAS technologies into for an e-commerce pre-sales women’s luxury business. I am on the job market for a entry Developer role to launch 🚀 my career as a SWE**
+- **I've complete my Full Stack Web Development core training👩🏽‍🎓 as a Software Engineering Fellow at Pursuit. I am currently developing my porfolio  starting with a project that I’m looking to infuse Web 3 & SAAS technologies into for an e-commerce pre-sales women’s luxury business. I am on the job market for a entry Developer role to launch 🚀 my career as a SWE.**
 
 - ⚡ Fun fact **I am multi-lingual**
 
