@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marsiarochelin" alt="marsiarochelin" /> </p>
 
-- **I've completed my Full Stack Web Development core training👩🏽‍🎓 as a Software Engineering Fellow at Pursuit:
-∙I plan to continue to network by watering that relationships I have because I value people for the resources they are],
-∙continue self directed learning from an empowered place having a better understanding of how I learn, do daily coding challenges,
+- **I've completed my Full Stack Web Development core training👩🏽‍🎓 as a Software Engineering Fellow at Pursuit:**
+∙I will continue to network by watering relationships that i've established because I value people for the resources they are],
+∙continue my self directed learning from an empowered place having a better understanding of how I learn,
+∙do daily coding challenges,
 ∙develop my porfolio: 
   ∙Starting with a recreating my first front end web page/app Colors of Psychology to become a full stack application. 
   ∙I'm then looking to infuse Web 3 & SAAS technologies into for an e-commerce website/app for a pre-sales women’s luxury business.
-I am currently on the job market for a entry Developer role to launch 🚀 my career as a SWE, so feel free checking out my work her on Github and fowarding roles to me that you believe I could be a great fit for.**
+
+**I am currently on the job market for a entry Developer role to launch 🚀 my career as a SWE, so feel free checking out my work her on Github and fowarding roles to me that you believe I could be a great fit for.**
 
 - ⚡ Fun fact **I am multi-lingual**
 
