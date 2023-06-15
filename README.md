@@ -12,7 +12,7 @@ I will continue to network by watering relationships that I've established, beca
 Firstly recreating my first frontend web page/app **Colors of Psychology** to be a full stack application[adding additional funtionality]. 
 Then, I'm then looking to infuse **Web 3 & SAAS** technologies into for **an e-commerce website/app for a pre-sales women’s luxury business.**
 
-- **I am currently on the job market for a entry Developer role to launch 🚀 my career as a SWE, so feel free checking out my work her on Github and fowarding roles to me that you believe I could be a great fit for.**
+- **I am currently on the job market for a entry Developer role to launch 🚀 my career as a SWE, so feel free checking out my work her on Github and fowarding roles to me that you believe I could be a great fit for, thanks in advance✨.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
