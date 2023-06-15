@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marsiarochelin" alt="marsiarochelin" /> </p>
 
+- ⚡ Fun fact **I am multi-lingual**
+
 - **I've completed my Full Stack Web Development core training👩🏽‍🎓 as a Software Engineering Fellow at Pursuit:**
 ∙I will continue to network by watering relationships that i've established because I value people for the resources they are],
 ∙continue my self directed learning from an empowered place having a better understanding of how I learn,
@@ -15,7 +17,7 @@
 
 **I am currently on the job market for a entry Developer role to launch 🚀 my career as a SWE, so feel free checking out my work her on Github and fowarding roles to me that you believe I could be a great fit for.**
 
-- ⚡ Fun fact **I am multi-lingual**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
