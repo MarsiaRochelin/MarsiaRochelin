@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I am multi-lingual**
 
-- **I've completed my Full Stack Web Development core training👩🏽‍🎓 as a Software Engineering Fellow at Pursuit:**
+- **I've completed my Full Stack Web Development core training 👩🏽‍🎓 as a Software Engineering Fellow at Pursuit:**
 I will continue to network by watering relationships that I've established, because I value people for the resources they are], continue my self directed learning from an empowered place having a better understanding of how I learn, do daily coding challenges more consistantly, and develop my porfolio: 
 Firstly recreating my first frontend web page/app **Colors of Psychology** to be a full stack application. 
 Then, I'm then looking to infuse **Web 3 & SAAS** technologies into for **an e-commerce website/app for a pre-sales women’s luxury business.**
