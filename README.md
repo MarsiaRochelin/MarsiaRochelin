@@ -1,4 +1,4 @@
-<h1 align="center"> 👋🏽 Hi, I'm [MARS]ia</h1>
+<h1 align="center"> 👋🏽 Hi, I'm Marsia</h1>
 <h3 align="center">A Full Stack Web Developer 👩🏾‍💻 that loves to create 👩🏾‍🎨 , and can do all things through music 🎵🎼🎶</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marsiarochelin&label=Profile%20views&color=0e75b6&style=flat" alt="marsiarochelin" /> </p>
