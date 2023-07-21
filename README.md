@@ -12,8 +12,8 @@ I will continue to network by watering relationships that I've established becau
 continue my self directed learning from an empowered place having a better understanding of how I learn,
 do daily coding challenges more consistantly,
 and develop my porfolio: 
-Firstly, recreating my first frontend web page/app **Colors of Psychology** to be a full stack application[adding additional funtionality]. 
-Then, I'm then looking to infuse **Web 3 & SAAS** technologies into for **an e-commerce website/app for a pre-sales women’s luxury business.**
+Firstly, recreating my first frontend web page/app **Colors of Psychology** to be a full stack application and adding additional funtionality. 
+Then, by building **an e-commerce website/app for a pre-sales women’s luxury business** where I'm looking to infuse **Web 3 & SAAS** technologies.
 
 - **I am currently on the job market for a entry Developer role to launch 🚀 my career as a SWE, so feel free checking out my work her on Github and fowarding roles to me that you believe I could be a great fit for, thanks in advance✨.**
 
